@@ -287,3 +287,30 @@ LinkedIn: [Malak Khatib](https://www.linkedin.com/in/malak-kh-2a92b6359)
 ## 📄 License
 
 This project was developed for educational purposes as a university project.
+
+## 📸 Project Screenshots
+
+### 🛠️ Admin Dashboard
+
+![Admin Dashboard](Screenshots/home_admin.png)
+
+### 👨‍🏫 Teacher Dashboard
+
+![Teacher Dashboard](Screenshots/home_teatcher.png)
+
+### 👨‍🎓 Student Dashboard
+
+![Student Dashboard](Screenshots/home_student.png)
+
+### 📚 My Course
+
+![My Course](Screenshots/my_course.png)
+
+### 📝 Quiz Results
+
+![Quiz Results](Screenshots/result.png)
+
+### 📊 Student Report
+
+![Student Report](Screenshots/Report_Student.png)
+
